@@ -1,0 +1,289 @@
+[
+  {
+    "id": 1,
+    "date": "2025-01-01",
+    "category": "Food",
+    "amount": 120,
+    "description": "Breakfast"
+  },
+  {
+    "id": 2,
+    "date": "2025-01-02",
+    "category": "Travel",
+    "amount": 250,
+    "description": "Cab to office"
+  },
+  {
+    "id": 3,
+    "date": "2025-01-02",
+    "category": "Snacks",
+    "amount": 50,
+    "description": "Tea & Biscuits"
+  },
+  {
+    "id": 4,
+    "date": "2025-01-03",
+    "category": "Groceries",
+    "amount": 890,
+    "description": "Weekly groceries"
+  },
+  {
+    "id": 5,
+    "date": "2025-01-03",
+    "category": "Entertainment",
+    "amount": 300,
+    "description": "Movie ticket"
+  },
+  {
+    "id": 6,
+    "date": "2025-01-04",
+    "category": "Food",
+    "amount": 150,
+    "description": "Lunch"
+  },
+  {
+    "id": 7,
+    "date": "2025-01-04",
+    "category": "Bills",
+    "amount": 1200,
+    "description": "Electricity Bill"
+  },
+  {
+    "id": 8,
+    "date": "2025-01-05",
+    "category": "Health",
+    "amount": 650,
+    "description": "Medicine purchase"
+  },
+  {
+    "id": 9,
+    "date": "2025-01-06",
+    "category": "Travel",
+    "amount": 200,
+    "description": "Metro card recharge"
+  },
+  {
+    "id": 10,
+    "date": "2025-01-06",
+    "category": "Food",
+    "amount": 130,
+    "description": "Dinner"
+  },
+  {
+    "id": 11,
+    "date": "2025-01-07",
+    "category": "Subscriptions",
+    "amount": 499,
+    "description": "Netflix monthly plan"
+  },
+  {
+    "id": 12,
+    "date": "2025-01-07",
+    "category": "Shopping",
+    "amount": 2200,
+    "description": "Shirt + Jeans"
+  },
+  {
+    "id": 13,
+    "date": "2025-01-08",
+    "category": "Groceries",
+    "amount": 940,
+    "description": "Monthly groceries"
+  },
+  {
+    "id": 14,
+    "date": "2025-01-09",
+    "category": "Food",
+    "amount": 80,
+    "description": "Street food"
+  },
+  {
+    "id": 15,
+    "date": "2025-01-10",
+    "category": "Recharge",
+    "amount": 299,
+    "description": "Mobile recharge"
+  },
+  {
+    "id": 16,
+    "date": "2025-01-10",
+    "category": "Travel",
+    "amount": 180,
+    "description": "Bus ticket"
+  },
+  {
+    "id": 17,
+    "date": "2025-01-10",
+    "category": "Food",
+    "amount": 145,
+    "description": "Evening snacks"
+  },
+  {
+    "id": 18,
+    "date": "2025-01-11",
+    "category": "Entertainment",
+    "amount": 750,
+    "description": "Audio subscription"
+  },
+  {
+    "id": 19,
+    "date": "2025-01-12",
+    "category": "Shopping",
+    "amount": 3400,
+    "description": "Shoes & jacket"
+  },
+  {
+    "id": 20,
+    "date": "2025-01-13",
+    "category": "Travel",
+    "amount": 320,
+    "description": "Auto to work"
+  },
+  {
+    "id": 21,
+    "date": "2025-01-14",
+    "category": "Food",
+    "amount": 110,
+    "description": "Snacks + Tea"
+  },
+  {
+    "id": 22,
+    "date": "2025-01-14",
+    "category": "Bills",
+    "amount": 800,
+    "description": "Wifi bill"
+  },
+  {
+    "id": 23,
+    "date": "2025-01-15",
+    "category": "Groceries",
+    "amount": 720,
+    "description": "Home essentials"
+  },
+  {
+    "id": 24,
+    "date": "2025-01-15",
+    "category": "Medicine",
+    "amount": 460,
+    "description": "Vitamin supplements"
+  },
+  {
+    "id": 25,
+    "date": "2025-01-16",
+    "category": "Travel",
+    "amount": 190,
+    "description": "Bike fuel"
+  },
+  {
+    "id": 26,
+    "date": "2025-01-17",
+    "category": "Subscriptions",
+    "amount": 299,
+    "description": "Spotify"
+  },
+  {
+    "id": 27,
+    "date": "2025-01-17",
+    "category": "Food",
+    "amount": 160,
+    "description": "Lunch outside"
+  },
+  {
+    "id": 28,
+    "date": "2025-01-18",
+    "category": "Entertainment",
+    "amount": 999,
+    "description": "Concert ticket"
+  },
+  {
+    "id": 29,
+    "date": "2025-01-19",
+    "category": "Shopping",
+    "amount": 1500,
+    "description": "Household items"
+  },
+  {
+    "id": 30,
+    "date": "2025-01-19",
+    "category": "Food",
+    "amount": 120,
+    "description": "Snacks"
+  },
+  {
+    "id": 31,
+    "date": "2025-01-20",
+    "category": "Bills",
+    "amount": 1450,
+    "description": "Gas bill"
+  },
+  {
+    "id": 32,
+    "date": "2025-01-21",
+    "category": "Travel",
+    "amount": 210,
+    "description": "Cab to station"
+  },
+  {
+    "id": 33,
+    "date": "2025-01-21",
+    "category": "Food",
+    "amount": 135,
+    "description": "Dinner + Dessert"
+  },
+  {
+    "id": 34,
+    "date": "2025-01-22",
+    "category": "Groceries",
+    "amount": 980,
+    "description": "Vegetables + fruits"
+  },
+  {
+    "id": 35,
+    "date": "2025-01-23",
+    "category": "Recharge",
+    "amount": 250,
+    "description": "Data pack"
+  },
+  {
+    "id": 36,
+    "date": "2025-01-24",
+    "category": "Food",
+    "amount": 95,
+    "description": "Tea + Samosa"
+  },
+  {
+    "id": 37,
+    "date": "2025-01-25",
+    "category": "Fuel",
+    "amount": 1050,
+    "description": "Petrol full tank"
+  },
+  {
+    "id": 38,
+    "date": "2025-01-26",
+    "category": "Health",
+    "amount": 1300,
+    "description": "Clinic & Tests"
+  },
+  {
+    "id": 39,
+    "date": "2025-01-27",
+    "category": "Food",
+    "amount": 170,
+    "description": "Restaurant meal"
+  },
+  {
+    "id": 40,
+    "date": "2025-01-28",
+    "category": "Travel",
+    "amount": 240,
+    "description": "Round trip auto"
+  },
+  {
+    "id": 41,
+    "date": "2025-11-26",
+    "category": "Food",
+    "amount": 140.0,
+    "description": "Brownie"
+  }
+]
